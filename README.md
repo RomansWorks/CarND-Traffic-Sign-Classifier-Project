@@ -1,3 +1,13 @@
+See `writeup_report.md`.
+
+NOTE: Project requires unzipping the GTRSB data to run. 
+
+Attribution can be found here: http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset
+
+
+
+
+
 ## Project: Build a Traffic Sign Recognition Program
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
